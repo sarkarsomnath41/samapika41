@@ -18,3 +18,8 @@
 // new all file track git hub stage [ git add .]
 
 
+// commit [git commit -m "massage"]
+
+
+
+
