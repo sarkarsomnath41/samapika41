@@ -20,6 +20,8 @@
 
 // commit [git commit -m "massage"]
 
+// push [ git push origin main]
+
 
 
 
